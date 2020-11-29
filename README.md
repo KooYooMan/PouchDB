@@ -3,6 +3,7 @@
 ```
 python -m SimpleHTTPServer # for python 2.
 python -m http.server # for python 3.
+http://localhost:8000/ # for running
 ```
 
 # To sync PouchDB local database
